@@ -14,7 +14,7 @@ OR
 yarn add rn-custom-otp
 ```
 
-![Example](https://image.prntscr.com/image/ajXgmN4qS72U0hmfclQdCA.png)
+![Example](https://github.com/Ashi90/ashish-rn-otp/blob/master/Screenshot%202022-02-22%20at%209.03.29%20PM.png)
 
 ## Usage
 
