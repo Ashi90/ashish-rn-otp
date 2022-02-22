@@ -14,6 +14,8 @@ OR
 yarn add rn-custom-otp
 ```
 
+![Example](https://image.prntscr.com/image/ajXgmN4qS72U0hmfclQdCA.png)
+
 ## Usage
 
 ```js

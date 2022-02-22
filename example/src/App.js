@@ -10,7 +10,21 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <OtpInputs numberOfInputs = {6}/>
+      <OtpInputs 
+       numberOfInputs = {6} // pass any number as per requirements
+       focusedBorderColor={'blue'}
+       unFocusedBorderColor={'black'}
+       clearTextOnFocus={true}
+       errorMessage={"Invalid OTP"} // pass error message if applicable
+       inputTextErrorColor={'black'}
+       errorMessageTextStyles={{color: 'red'}} // Error message text style
+       handleChange={code => {
+        Console.log("you code ==>", code)
+        // Do your code
+       }}
+       keyboardType={'number-pad'}
+       secureTextEntry={false}
+      />
     </View>
   );
 }
