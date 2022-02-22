@@ -1,6 +1,6 @@
 {
   "name": "rn-custom-otp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "custom otp view for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
