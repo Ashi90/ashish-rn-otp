@@ -14,8 +14,7 @@ OR
 yarn add rn-custom-otp
 ```
 
-![Example](https://github.com/Ashi90/ashish-rn-otp/blob/master/otpinput.png)
-![Example](https://github.com/Ashi90/ashish-rn-otp/blob/master/otp.gif)
+![Example](https://github.com/Ashi90/ashish-rn-otp/blob/master/otpinput.png)| ![Example](https://github.com/Ashi90/ashish-rn-otp/blob/master/otp.gif)
 
 ## Usage
 
